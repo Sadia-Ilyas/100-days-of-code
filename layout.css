@@ -1,0 +1,36 @@
+.container{
+    border: 5px solid black;
+}
+body{
+    background: grey;
+}
+#header{
+    background: orange;
+    padding: 10px 10px;
+}
+#manu{
+    background: pink;
+}
+#manu ul{
+    list-style: none;
+    text-decoration: none;
+    
+}
+#manu ul li {
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 0px;
+}
+#content{
+    background: wheat;
+}
+#sidebar{
+    background: yellow;
+}
+#sidebar ul{
+    list-style: none;
+}
+
+#footer{
+    padding: 10px;
+}
