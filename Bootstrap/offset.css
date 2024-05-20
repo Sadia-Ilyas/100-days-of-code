@@ -1,0 +1,18 @@
+.container{
+    border: 8px solid red;
+}
+#box1{
+    background: sandybrown;
+}
+#box2{
+    background: yellow;
+}
+#box3{
+background: yellowgreen;
+}
+#box4{
+    background: pink;
+}
+#box5{
+    background: skyblue;
+}
