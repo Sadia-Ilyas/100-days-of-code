@@ -1,0 +1,31 @@
+/* Example No 1 CSS */
+.container{
+    border: 8px dashed red;
+}
+#col1{
+    background: orange;
+}
+#col2{
+    background: yellow
+    ;
+}#col3{
+    background: yellowgreen;
+}#col4{
+    background: pink;
+}
+#col5{
+    background: grey;
+}#col6{
+    background: goldenrod;
+}
+/* Example No 2 CSS */
+
+#layoutcontainer{
+    border: 8px solid green;
+}
+#content{
+    background: orange;
+}
+#manu{
+    background: pink;
+}
