@@ -1,0 +1,22 @@
+.container{
+    border: 7px solid black;
+}
+/* .row{
+    border: 2px solid rgb(211, 27, 27);
+} */
+/* .col-12 .col-9{
+    border: 2px solid rgb(0, 0, 0);
+} */
+#cover{
+    background: url("./imgs/pic.jpg");
+    height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-position:center center
+   
+}
+#cover h1{
+ text-align: center;
+ margin-top: 50px;
+}
