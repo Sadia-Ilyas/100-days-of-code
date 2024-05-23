@@ -8,3 +8,5 @@ DAY :1
 #Today I work with the Order Class of Bootstrap which is used for ordering diffrent divs according to layout.
  DAY :4
 # Today I work with the nested class of bootstrap and try to develop a basic profile section.
+DAY:5
+# Today I work with the Horizontal alignemnet classes of bootstrap. Also go thorough with the padding Classes.
