@@ -10,3 +10,5 @@ DAY :1
  #Today I work with the nested Class of Bootstrap and try to develop a basic profile section.
 DAY:5
  #Today I work with the Horizontal Alignemnt Classes of Bootstrap.Also go thorough with the padding Classes
+DAY:6
+ #Today I work with the Vertically Alignemnt Classes of Bootstrap.
