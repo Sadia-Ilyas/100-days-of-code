@@ -12,3 +12,5 @@ DAY:5
  #Today I work with the Horizontal Alignemnt Classes of Bootstrap.Also go thorough with the padding Classes
 DAY:6
  #Today I work with the Vertically Alignemnt Classes of Bootstrap.
+DAY:7
+ #Today I work with the flex direction claases of Bootstrap.Also go thorough with the Align Self Clases and align Content classes.
