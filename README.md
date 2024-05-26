@@ -13,4 +13,6 @@ DAY:5
 DAY:6
  #Today I work with the Vertically Alignemnt Classes of Bootstrap.
 DAY:7
- #Today I work with the flex direction claases of Bootstrap.Also go thorough with the Align Self Clases and align Content classes.
+ #Today I work with the flex direction classes of Bootstrap.Also go thorough with the Align Self Clases and align Content classes.
+DAY:8
+#Today I work with the Margin classes ( m-auto,m,ml,mr,mb,mt,) of Bootstrap.Also go thorough with the Display Classes(d-flex,d-inline-flex,d-inline,d-block,d-inline-block,d-table,d-table-cell,d-table-row,d-none).
