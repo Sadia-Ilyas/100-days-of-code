@@ -16,3 +16,6 @@ DAY:7
  #Today I work with the flex direction classes of Bootstrap.Also go thorough with the Align Self Clases and align Content classes.
 DAY:8
 #Today I work with the Margin classes ( m-auto,m,ml,mr,mb,mt,) of Bootstrap.Also go thorough with the Display Classes(d-flex,d-inline-flex,d-inline,d-block,d-inline-block,d-table,d-table-cell,d-table-row,d-none).
+DAY:9
+#Today I work with the Width and Height classes of Bootstrap.Also go thorough with the float Classes.
+
