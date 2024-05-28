@@ -18,4 +18,6 @@ DAY:8
 #Today I work with the Margin classes ( m-auto,m,ml,mr,mb,mt,) of Bootstrap.Also go thorough with the Display Classes(d-flex,d-inline-flex,d-inline,d-block,d-inline-block,d-table,d-table-cell,d-table-row,d-none).
 DAY:9
 #Today I work with the Width and Height classes of Bootstrap.Also go thorough with the float Classes.
+DAY:10
+#Today I work with the Margin and Padding classes of Bootstrap with horizontal and vertical direction.Also go through with the position Classes (sticky,top,bottom).
 
