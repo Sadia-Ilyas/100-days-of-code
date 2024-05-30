@@ -1,6 +1,24 @@
 a:hover{
 text-decoration: none;
 }
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.section h2.section-head{
+color: #000;
+text-align: center;
+margin-bottom: 40px;
+}
+.section h2.section-head:after{
+background: #e74c3c;
+content: "";
+display: block;
+width: 100px;
+height: 3px;
+margin: 20px auto;
+}
+
 #header{
     color: white;
     background: #e74c3c;
@@ -46,4 +64,14 @@ text-decoration: none;
     color: white;
     background: rgba(231, 76, 60, 0.7);
     padding: 10px;
+}
+.service-box{
+text-align: center;
+}
+
+.service-box i.fa{
+    color: #e74c3c;
+    font-size: 70px;
+    margin-bottom: 15px;
+
 }
