@@ -22,3 +22,5 @@ DAY:10
 #Today I work with the Margin and Padding classes of Bootstrap with horizontal and vertical direction.Also go through with the position Classes (sticky,top,bottom).
 DAY:11
 #Today I have started A responsive Bootstrap Template.I'll Complete it in sections.
+DAY:12
+#Today I compeleted next section of my bootstrap template.
