@@ -24,3 +24,7 @@ DAY:11
 #Today I have started A responsive Bootstrap Template.I'll Complete it in sections.
 DAY:12
 #Today I compeleted next section of my bootstrap template.
+DAY:13 DAY:14 DAY:15 DAY:16 DAY:17
+Working on the responsive bootstrap template.
+DAY:18
+Today I learned about text formating classes which include text alignmwn ,text cases anchor tags also text wrap properties.
