@@ -28,3 +28,5 @@ DAY:13 DAY:14 DAY:15 DAY:16 DAY:17
 Working on the responsive bootstrap template.
 DAY:18
 Today I learned about text formating classes which include text alignmwn ,text cases anchor tags also text wrap properties.
+DAY:19
+Today I learned about text size classes of bootstrap also list styling classes of bootstrap.
