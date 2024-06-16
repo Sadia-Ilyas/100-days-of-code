@@ -30,3 +30,6 @@ DAY:18
 Today I learned about text formating classes which include text alignmwn ,text cases anchor tags also text wrap properties.
 DAY:19
 Today I learned about text size classes of bootstrap also list styling classes of bootstrap.
+
+DAY:20
+Today I learned about  btn classes of bootstrap also list sizes variation btn of bootstrap.
