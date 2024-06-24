@@ -36,4 +36,6 @@ DAY:21
 Today I learned about  btn group classes of bootstrap .
 DAY:22
 Today I learned about  List group classes of bootstrap .
+DAY:23
+Today I learned about  Table classes of bootstrap .
 
