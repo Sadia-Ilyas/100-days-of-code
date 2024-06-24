@@ -39,5 +39,7 @@ Today I learned about  List group classes of bootstrap .
 DAY:23
 Today I learned about  Table classes of bootstrap .
 DAY:24
-Today I learned about  Pagination classes of bootstrap .
+Today I learned about  Pagination classes of bootstrap.
+DAY:25
+Today I learned about  Form classes of bootstrap.
 
