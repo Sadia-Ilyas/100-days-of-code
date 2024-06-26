@@ -42,6 +42,9 @@ DAY:24
 Today I learned about  Pagination classes of bootstrap.
 DAY:25
 Today I learned about  Form classes of bootstrap.
-DAY:25
+DAY:26
 Today I learned about Inline & Horizontal Form classes of bootstrap.
+DAY:27
+Today I learned about Bootstrap Custom Form classes which are not workring as expected. (Research Continue)
+
 
