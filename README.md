@@ -46,5 +46,6 @@ DAY:26
 Today I learned about Inline & Horizontal Form classes of bootstrap.
 DAY:27
 Today I learned about Bootstrap Custom Form classes which are not workring as expected. (Research Continue)
-
+DAY:28
+Today I learned about Bootstrap input group classes.
 
